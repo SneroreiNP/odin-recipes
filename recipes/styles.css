@@ -56,7 +56,7 @@ h1 {
 
 .box {
     border: 4px solid yellowgreen;
-    margin: 5rem;
+    margin: 2rem;
     padding: 2rem;
     text-align: justify;
 }
@@ -138,3 +138,14 @@ a:hover {
     text-decoration: none;
 }
 
+.back {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: orange;
+}
+
+.back:hover {
+    color: #ff8000;
+}
